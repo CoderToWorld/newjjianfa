@@ -7,6 +7,10 @@ package com.atguigu.git;
 public class NewMakeMoney {
     public static void main(String[] args) {
         System.out.println("Making money is too hard!!" +
+                "hhhhh"
+
+        );
+        System.out.println("Making money is too hard!!" +
                 "ssssss");
 
         // TODO 红色 ： 未追踪代码 暂存区
